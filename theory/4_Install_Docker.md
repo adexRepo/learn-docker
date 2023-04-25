@@ -15,3 +15,7 @@ but meskipun docker dekstop seperti itu, semua itu sudah di handle oleh docker n
 
 -- 
 dapat problem dan perlu update WSL 2 nya
+
+
+## Mengecek Docker
+terminal : docker version
