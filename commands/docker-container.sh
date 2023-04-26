@@ -9,6 +9,9 @@ docker container ls -a
 # ---------------- Melihat container yang sedang berjalan saja --------------- #
 docker container ls
 
+# ini juga bisa
+docker ps 
+
 # --------------------------- Menjalankan container -------------------------- #
 # Format : docker container start containerId/containerName
 # Contoh : 

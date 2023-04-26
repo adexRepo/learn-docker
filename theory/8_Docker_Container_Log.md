@@ -11,3 +11,4 @@ docker container logs -f containerId/namaContainer
 - [-f] = untuk menunggu / blocking sampai ada log baru dan seterusnya. 
 
 lihat ringkasnya : commands\docker-container-logs.sh
+127.0.0.1:6379>
